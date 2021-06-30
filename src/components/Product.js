@@ -6,7 +6,6 @@ class Product extends Component {
     super(props);
     this.state = {
       selectedProduct: {},
-
       isAdded: false,
     };
   }
@@ -49,7 +48,7 @@ class Product extends Component {
     let quantity = this.props.productQuantity;
     return (
       <div className="border border-black">
-        <div className="bg-white h-72 overflow-hidden p-16 shadow-md">
+        <div className="bg-white h-72 overflow-hidden p-16 shadow-md bg-opacity-10 bg-clip-padding">
           <img src={image} className="container h-48 hero mx-auto w-48" />
         </div>
         <div className="float-left p-8">
