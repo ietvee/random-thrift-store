@@ -74,7 +74,7 @@ class Nav extends Component {
             <a href="/" className="hover:no-underline no-underline">
               <h3 className="font-bold px-6 text-3xl text-gray-700">RANDOM</h3>
               <h3 className="font-extralight px-6 text-sm text-gray-700">
-                thrift shop
+                thrift store
               </h3>
             </a>
             <div>
