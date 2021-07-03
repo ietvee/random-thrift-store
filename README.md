@@ -1,8 +1,11 @@
+# Random Thrift Store
+
+This is an e-commerce web application with simple add to cart function. 
+It is created by consuming REST API with Axios and Tailwind to build design of the web application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It is an e-commerce website with add to cart function. 
-It is created by consuming REST API with Axios and Tailwind CSS to build design of the website.
 
 ## Available Scripts
 
