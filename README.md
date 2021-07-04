@@ -3,6 +3,9 @@
 This is an e-commerce web application with simple add to cart function. 
 It is created by consuming REST API with Axios and Tailwind to build design of the web application.
 
+### **Disclaimer**
+
+This project is developed with the intention of self-learning purpose and is developed by exploring online resources/materials from various learning platforms.
 
 -----
 
